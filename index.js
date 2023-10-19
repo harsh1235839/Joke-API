@@ -632,7 +632,7 @@ var jokes = [
     id: 94,
     jokeText:
       "I told my wife she was drawing her eyebrows too high. She looked surprised.",
-    jokeType: "Puns",
+    jokeType: "Pun",
   },
   {
     id: 95,
@@ -661,11 +661,11 @@ var jokes = [
     id: 99,
     jokeText:
       "Parallel lines have so much in common. It's a shame they'll never meet.",
-    jokeType: "Math",
+    jokeType: "Maths",
   },
   {
     id: 100,
     jokeText: "What do you call fake spaghetti? An impasta!",
-    jokeType: "Food",
+    jokeType: "khana",
   },
 ];
